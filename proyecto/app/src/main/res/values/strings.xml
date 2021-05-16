@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string-array name="restaurantes_array">
+        <item>Dominos</item>
+        <item>Burger king</item>
+        <item>Little ceasars</item>
+        <item>KFC</item>
+        <item>Carls junior</item>
+        <item>Pizza hut</item>
+        <item>Subway</item>
+        <item>Wendys</item>
+    </string-array>
+    <string-array name="num_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
